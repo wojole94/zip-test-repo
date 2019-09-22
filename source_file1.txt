@@ -1,0 +1,1 @@
+This file has been created justfor test purposes. It should be deleted once code will be created.
