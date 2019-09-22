@@ -1,1 +1,3 @@
-This file has been created justfor test purposes. It should be deleted once code will be created.
+This file has been created just for test purposes. It should be deleted once code will be created. 
+
+If it not will be done soon, please contact git repository administrator using his e-mail: wojciech.oleszko@gmail.com
